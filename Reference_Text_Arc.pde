@@ -24,3 +24,4 @@ fill(random(255),255,0);
 textAlign(CENTER);
 textSize(100);
 text("NOON",350,600);
+ }
